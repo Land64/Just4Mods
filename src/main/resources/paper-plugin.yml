@@ -1,0 +1,4 @@
+name: Just4Mods
+version: '1.0-SNAPSHOT'
+main: me.ls.just4Mods.Just4Mods
+api-version: '1.21'
